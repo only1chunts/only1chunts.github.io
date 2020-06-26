@@ -1,4 +1,4 @@
-# H1 CHRISTOPHER IAN HUNTER
+# CHRISTOPHER IAN HUNTER
 
 **PERSONAL DETAILS:**
 
@@ -8,7 +8,7 @@
 
 Tai Po, N.T. Hong Kong. **email:** [only1chunts@hotmail.com](mailto:only1chunts@hotmail.com)
 
-# H2 EMPLOYMENT HISTORY:
+## EMPLOYMENT HISTORY:
 
 **March 2013 to present:** BGI-Hong Kong Co Ltd. 16 Dai Fu Street, Tai Po Industrial estate, Tai Po, N.T. Hong Kong.
 • Lead BioCurator, GigaDB. GigaScience is an online, open-access journal that includes, as part of its publishing activities, the database _GigaDB_. GigaScience recognised the need for the association of the data with the manuscripts and was the first to provide the dedicated resources to achieve this. _GigaDB_ primarily serves as a repository to host data and tools associated with articles in GigaScience. Through our association with DataCite, each dataset in GigaDB is assigned a DOI that can be used as a standard citation for future use of these data in other articles by the authors and other researchers My role within the team is ; to assist users with the organisation of their data, and making sure all the required files are deposited, both in GigaDB and external resources (if required); to liaise with users and potential users to prepare GigaDB for future expansion; to conceptualise and implement appropriate search and visualisation tools to enable users to make full use of the data stored in GigaDB. The scope of scientific data we handle is large and requires a great deal of open collaboration with many people and groups around the world.
@@ -47,11 +47,11 @@ Work included; DNA and RNA preparation, PCR, gene cloning, transient transfectio
 **1994 to 1998: BSc (Hons) Applied Biology 2:i**
 The Nottingham Trent University, Nottingham, UK.
 
-# H2 ADDITIONAL SKILLS :
+## ADDITIONAL SKILLS :
 - **Computing skills;** Extensive use of various software including MS Office, excellent understanding of Unix commands and environment, use of a broad spectrum of web based utilities including SRS and Ensembl, limited programming/scripting ability in python, perl and R. Working knowledge of ontologies (Protégé), XML (Oxygen) and SQL.
 - **Personal skills;** Ability to lead effectively, confident and competent in communication both verbal and written.
 
-# H2 COURSES, CONFERENCES AND PRESENTATIONS
+## COURSES, CONFERENCES AND PRESENTATIONS
 - Various &quot;Introduction to&quot; course including; Management, Basic Unix, Staden Phylogeny Scientific writing course, presenting with impact.
 - Regular oral presentations to update the group on current work.
 - Presentation to secondary school students and lay audiences about genetics and cancer
@@ -63,11 +63,11 @@ The Nottingham Trent University, Nottingham, UK.
 - Genomic Standards Consortium meetings; GSC6, 9, 11, 12, 14 and 15.
 - Teaching/demonstrating EBI Metagenomics resources at EU-US training course for MicroB3.
 
-# H2 ACTIVITIES AND INTERESTS
+## ACTIVITIES AND INTERESTS
 
 I enjoy numerous sporting activities including badminton, squash, swimming and volleyball. In the past I have represented and captained my sixth form rugby team, as well as playing for a local club and the county, unfortunately due to injury I no longer play, but have recently taken up a coaching role for the local under 9&#39;s team. Additionally I enjoy many other outdoor activities, such as hiking, jogging and cycling. Other interests include gardening and DIY.
 
-# H2 PUBLICATIONS
+## PUBLICATIONS
 
 Hunter S, …, **Hunter C** , ..., Sansone SA. (2013) &quot;EBI metagenomics--a new resource for the analysis and archiving of metagenomic data.&quot; Nucleic acids research, 2013 Oct 27. [Epub ahead of print]
 
