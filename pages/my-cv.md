@@ -1,4 +1,4 @@
-#CHRISTOPHER IAN HUNTER
+#H1 CHRISTOPHER IAN HUNTER
 
 **PERSONAL DETAILS:**
 
@@ -22,14 +22,17 @@ Tai Po, N.T. Hong Kong. **email:** [only1chunts@hotmail.com](mailto:only1chunts@
 
 • Bioinformatician, InterPro-Metagenomics. The EBI metagenomics portal is a resource providing access to the researchers in the relatively new field of metagenomics. It has the aim of being a user friendly interface to some currently available EBI resources (e.g. InterPro, ENA, UniProt/MES, GO, Ensembl), promoting their utility in the field of metagenomics. I have a lead roll in the progression of this portal with input into all aspects from web design, usability, software implementation and data acquisition from users. The role requires a great deal of time management and communication skills. I present the progress at regular monthly updates with team leaders and have been to various international conferences to promote the EBIs involvement in this field.
 
-** Sept 2007 to Sept 2009: EMBL-EBI, Wellcome Trust Genome Campus, Cambridge, CB10 1SD.**
+**Sept 2007 to Sept 2009: EMBL-EBI, Wellcome Trust Genome Campus, Cambridge, CB10 1SD.**
+
 •  Database curator, EMBL-bank nucleotide sequence database.
 EMBL-bank constitutes Europe&#39;s primary nucleotide sequence resource. DNA and RNA sequences are submitted from individual researchers, genome sequencing projects and patent applications. EMBL-bank provides an up to date searchable database accessible to all and my role within the team is as a curator.This role entails overseeing entry of submissions to ensure the database remains accurate and searchable. The tools to undertake this process are mainly Unix based, with the powerful word-processor Emacs being heavily relied upon. As a curator I am the primary contact point for most submitters and as such it is essential that I use all my communication skills to ensure the &quot;customer&quot; feels in control of their data and yet still acquire sufficient information about each submission to fulfil the requirements of a minimum standard. I am also taking a leading role in the development of submission protocols for the reposition of the new sequence technology data (short read archive). Participation in bi-weekly meetings with other curators helps ensure a uniform standard for all members of the team.
 
-** Feb 2004 to Sept 2007: Sanger Institute, Wellcome Trust Genome Campus, Cambridge, CB10 1SA.**
+**Feb 2004 to Sept 2007: Sanger Institute, Wellcome Trust Genome Campus, Cambridge, CB10 1SA.**
+
 • Postdoctoral Researcher, Cancer Genome Project. The aim of the project is to determine somatic variants within the DNA taken from various cancer tissues to help further the understanding of how cancer occurs. My role within the team was to oversee the entire process from primer design for the PCR and sequencing, through to the analysis of the sequence data. Various software applications were used including Mutation Surveyor, Chromas and OncoCSA. Due to the large datasets a lot of sample tracking was required, initially this was done in MS Excel, so became very proficient with its use. However the in house IT department developed an integrated sequence analysis and laboratory tracking system. I was involved in the development process at the user level, which required the full use of my communication skills to help the IT staff understand the biological nature of what the software needed to do. I also presented updates and potentially interesting results in weekly meetings with other senior members of the project.
 
-** July 2002 to Jan 2004: MRCUK HGMP Resource Centre, Wellcome Trust Genome Campus, Cambridge CB10 1SB**
+**July 2002 to Jan 2004: MRCUK HGMP Resource Centre, Wellcome Trust Genome Campus, Cambridge CB10 1SB**
+
 • Postdoctoral Researcher. 
 I recognised problems and implemented rectifications, to establish a consistent and useful Dual Luciferase assay, which the group uses to help identify regulatory regions within the 3&#39;UTR of genes. I controlled the flow of work performed by myself and my RA, through a self implemented web-based tracking system. Other key duties included target identification from literature and computational analysis, identification of suitable primers and cDNA clones, and training of my RA in all relevant techniques. Unfortunately I had to leave this role due to the funding body (RiboTargets) withdrawing its funding for commercial reasons.
 
@@ -37,9 +40,9 @@ I recognised problems and implemented rectifications, to establish a consistent 
 • Scientific researcher. 
 Work included; DNA and RNA preparation, PCR, gene cloning, transient transfections, FACS analysis and dsRNA synthesis. However the largest proportion of my time was spent augmenting automation of the in-house procedures primarily by the use of an MWG liquid handling robot.
 
-**1998 to 2002: PhD. 
-• Title: Identification, cloning and characterisation of the Alpha2 Adrenergic Receptor gene family in the Japanese pufferfish** _ **Fugu rubripes** _ **
-• Submitted: 10th May 2002. Darwin College, Cambridge University, Cambridge, UK. **Studies undertaken:** at MRC UK HGMP Resource Centre, in the Fugu Genomics Group, and at Pfizer Global R&amp;D, Sandwich, Kent, UK. **Funding Body:** BBSRC Industrial case award with Pfizer Global R&amp;D, Kent UK.
+**1998 to 2002: PhD.** 
+• **Title:** Identification, cloning and characterisation of the Alpha2 Adrenergic Receptor gene family in the Japanese pufferfish** _ **Fugu rubripes** _ **
+• **Submitted:** 10th May 2002. Darwin College, Cambridge University, Cambridge, UK. **Studies undertaken:** at MRC UK HGMP Resource Centre, in the Fugu Genomics Group, and at Pfizer Global R&amp;D, Sandwich, Kent, UK. **Funding Body:** BBSRC Industrial case award with Pfizer Global R&amp;D, Kent UK.
 
 **Key Areas of Study:**
 - Sequencing, cloning, PCR, hybridisation, RT-PCR, Genetics/genomics
@@ -54,7 +57,7 @@ The Nottingham Trent University, Nottingham, UK.
 - **Computing skills;** Extensive use of various software including MS Office, excellent understanding of Unix commands and environment, use of a broad spectrum of web based utilities including SRS and Ensembl, limited programming/scripting ability in python, perl and R. Working knowledge of ontologies (Protégé), XML (Oxygen) and SQL.
 - **Personal skills;** Ability to lead effectively, confident and competent in communication both verbal and written.
 
-** COURSES, CONFERENCES AND PRESENTATIONS**
+**COURSES, CONFERENCES AND PRESENTATIONS**
 - Various &quot;Introduction to&quot; course including; Management, Basic Unix, Staden Phylogeny Scientific writing course, presenting with impact.
 - Regular oral presentations to update the group on current work.
 - Presentation to secondary school students and lay audiences about genetics and cancer
