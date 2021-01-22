@@ -44,12 +44,14 @@ insert
 put some space here
 <ui>
   {% for post in site.posts %}
+	{% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
+    {{ excerptParts[1] | strip_newlines | truncatewords: 50 }}
      {{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.excerpt }} </a>
         <br>
   {% endfor %}
 </ui>
 
-and add some text after.
+change some text after.
 
 {% raw %}
 
