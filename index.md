@@ -15,7 +15,7 @@ My [CV](pages/my-cv.md)
 My first [post](pages/my-first-post.md)
 and a new [one](_posts/2021-01-021-readme.md)
 
-add new line
+change line
 {% for tag in tags %}
 	<a href="{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
