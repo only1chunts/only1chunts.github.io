@@ -46,7 +46,7 @@ put some space here
   {% for post in site.posts %}
 	{% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
     {{ excerptParts[1] | strip_newlines | truncatewords: 50 }}
-     {{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.excerpt }} </a>
+     {{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ excerptParts[1] }} </a>
         <br>
   {% endfor %}
 </ui>
