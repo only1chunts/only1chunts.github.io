@@ -4,7 +4,7 @@ https://only1chunts.github.io/
 
 My [CV](pages/my-cv.md)
 
-My first [post](_post/my-first-post.md)
+My first [post](_posts/my-first-post.md)
 
 put some space here
 
