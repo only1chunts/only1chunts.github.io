@@ -7,6 +7,15 @@ My [CV](pages/my-cv.md)
 My first [post](pages/my-first-post.md)
 and a new [one](_posts/2021-01-021-readme.md)
 
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 put some space here
 <ui>
   {% for post in site.posts %}
