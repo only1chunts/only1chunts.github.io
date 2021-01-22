@@ -13,10 +13,8 @@ put some space here
   {% for post in site.posts  limit:3 %}
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
-      {{ post.date | date: "%B %e, %Y" }}
       <br>
-  
-  {% endfor %}
+    {% endfor %}
 </li>
 
 and add some text after.
