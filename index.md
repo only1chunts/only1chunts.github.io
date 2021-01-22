@@ -11,12 +11,11 @@ put some space here
 
 <li>
   {% for post in site.posts  limit:3 %}
-    ---
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
       {{ post.date | date: "%B %e, %Y" }}
       <br>
-    ---
+  
   {% endfor %}
 </li>
 
