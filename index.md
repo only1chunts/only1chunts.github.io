@@ -50,3 +50,13 @@ put some space here
 </ui>
 
 and add some text after.
+
+
+---
+layout: default
+title: New board members
+category: news
+tag: [news , board]
+date: 2018-05-07
+---
+
