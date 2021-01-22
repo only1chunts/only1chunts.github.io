@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Christopher I Hunter CV
 categories: CV
 tags: news, blog
+date: 2015-01-01
 ---
 
 # CHRISTOPHER IAN HUNTER
