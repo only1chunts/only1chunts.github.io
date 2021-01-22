@@ -10,7 +10,7 @@ and a new [one](_posts/2021-01-021-readme.md)
 put some space here
 
 <ul>
-  {% for post in site.posts  offset:2 %}
+  {% for post in site.posts  offset:1 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
