@@ -2,6 +2,7 @@
 layout: null
 title: Testing a new post 
 category: blog
+tag: blog
 date: 2021-01-22
 ---
 
