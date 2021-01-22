@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: page
 title: Christopher I Hunter CV
 categories: CV
 tags: news, blog
