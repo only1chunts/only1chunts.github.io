@@ -51,6 +51,7 @@ put some space here
 
 and add some text after.
 
+{% raw %}
 
 ---
 layout: default
@@ -60,3 +61,4 @@ tag: [news , board]
 date: 2018-05-07
 ---
 
+{% endraw %}
