@@ -10,3 +10,4 @@ put some space here
 
 {% include linked_post.html url="my-first-post" %}
 
+and add some text after to show its updated.
