@@ -1,11 +1,9 @@
 ---
-layout: pages
 title: BANG the dirt has gone
 catergory: news
 tag: news
 date: 2021-01-22
 ---
-updated
 
 <div id="GigaDB-metadata-guide_31085" align="center" x:publishsource="Excel">
 
