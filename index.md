@@ -9,15 +9,15 @@ and a new [one](_posts/2021-01-021-readme.md)
 
 put some space here
 
-<ul>
+<li>
   {% for post in site.posts  limit:3 %}
-    
+    ---
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
       {{ post.date | date: "%B %e, %Y" }}
       <br>
-   
+    ---
   {% endfor %}
-</ul>
+</li>
 
 and add some text after.
