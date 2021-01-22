@@ -1,5 +1,5 @@
 <div class="linked_post">
-    {% for post in site.posts %}
+    {% for post in site.pages %}
         {% assign post_url = post.url | replace: "/", "" %}
         {% if post_url == include.url %}
             <div class="linked_post_div">
