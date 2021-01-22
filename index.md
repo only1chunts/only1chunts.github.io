@@ -13,7 +13,7 @@ insert
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-insert
+
 
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
