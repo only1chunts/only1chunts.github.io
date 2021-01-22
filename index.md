@@ -1,3 +1,5 @@
+{% include header.html %}
+
 https://only1chunts.github.io/  
 
 [And Bang the dirt is gone!](pages/bang.md)
