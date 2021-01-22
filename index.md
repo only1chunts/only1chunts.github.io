@@ -8,13 +8,12 @@ My first [post](pages/my-first-post.md)
 and a new [one](_posts/2021-01-021-readme.md)
 
 put some space here
-<td>
+<ui>
   {% for post in site.posts %}
-      <tr>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }} {{ post.date }}
-      </tr>
+      <a href="{{ post.url }}">{{ post.excerpt }} </a>
+  {{ post.date }}
+      <br>
   {% endfor %}
-</td>
+</ui>
 
 and add some text after.
