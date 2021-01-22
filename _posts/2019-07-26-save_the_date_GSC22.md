@@ -2,6 +2,7 @@
 layout: null
 title: Save The Date- GSC22 July 13-17, 2020 Bangkok, Thailand
 category: meetings
+tag: meetings
 date: 2019-07-26
 ---
 
