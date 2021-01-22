@@ -18,3 +18,5 @@ The **[Faculty of Medicine Siriraj Hospital at Mahidol University](https://www2.
 **Comparative Genomics, and Metabolomics**
 
 This meeting is intended for professionals within the fields of medical genomics, agriculture, comparative genomics, and metabolomics tackling metadata challenges related to the sample collection, processing and genomic sequencing workflow critical for small and large scale datasets. It is our intention to discuss and plan for evolving genomic and laboratory standards to address the needs of the clinical, academic and industry researchers with a focus on precision medicine and agriculture.
+
+end.
