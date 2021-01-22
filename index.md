@@ -7,6 +7,16 @@ My [CV](pages/my-cv.md)
 My first [post](pages/my-first-post.md)
 and a new [one](_posts/2021-01-021-readme.md)
 
+insert
+{% for category in site.categories.news %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category.news %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+insert
 
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
