@@ -2,6 +2,7 @@
 layout: null
 title: New board members
 category: news
+tag: news
 date: 2018-05-07
 ---
 
