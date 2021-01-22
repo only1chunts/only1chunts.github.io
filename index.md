@@ -7,6 +7,8 @@ My [CV](pages/my-cv.md)
 My first [post](pages/my-first-post.md)
 and a new [one](_posts/2021-01-021-readme.md)
 
+just adding new text to see when its updated.
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
