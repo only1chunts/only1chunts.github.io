@@ -1,3 +1,10 @@
+---
+layout: null
+title: Christopher I Hunter CV
+categories: CV
+tags: news, blog
+---
+
 # CHRISTOPHER IAN HUNTER
 
 **PERSONAL DETAILS:**
