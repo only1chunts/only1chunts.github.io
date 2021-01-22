@@ -9,7 +9,7 @@ and a new [one](_posts/2021-01-021-readme.md)
 
 insert
   <ul>
-    {% for post in site.category.news %}
+    {% for post in site.categories.news %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
