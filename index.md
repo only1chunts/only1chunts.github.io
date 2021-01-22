@@ -4,10 +4,10 @@ https://only1chunts.github.io/
 
 My [CV](pages/my-cv.md)
 
-My first [post](_post/my-first-post)
+My first [post](_post/my-first-post.md)
 
 put some space here
 
 {% include linked_post.html url="my-first-post" %}
 
-and add some text after to show its updated.
+and add some text after.
