@@ -10,9 +10,8 @@ and a new [one](_posts/2021-01-021-readme.md)
 put some space here
 <ui>
   {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.excerpt }} </a>
-  {{ post.date }}
-      <br>
+     {{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.excerpt }} </a>
+        <br>
   {% endfor %}
 </ui>
 
