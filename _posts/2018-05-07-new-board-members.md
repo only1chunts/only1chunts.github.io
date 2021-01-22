@@ -1,5 +1,4 @@
 ---
-layout: null
 title: New board members
 category: news
 tag: news
