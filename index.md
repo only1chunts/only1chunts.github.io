@@ -12,7 +12,9 @@ put some space here
 <ul>
   {% for post in site.posts  offset:2 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>{{ post.date | date: "%B %e, %Y" }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+      {{ post.date | date: "%B %e, %Y" }}
     </li>
   {% endfor %}
 </ul>
