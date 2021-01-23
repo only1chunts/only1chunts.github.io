@@ -4,6 +4,13 @@ catergory: news
 tag: news
 date: 2021-01-22
 ---
+here it is:
+<ui>
+  {% for post in site.posts %}
+	{{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.excerpt }} </a>
+        <br>
+  {% endfor %}
+</ui>
 
 <div id="GigaDB-metadata-guide_31085" align="center" x:publishsource="Excel">
 
