@@ -1,4 +1,5 @@
 ---
+layout:items
 title: Christopher I Hunter CV
 categories: CV
 tags: news, blog
