@@ -2,14 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 {{ include header.html }}
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-<title>My Store</title>
-
-<script src="./include/prodbs.js"></script>
-<link href="style.css" rel="stylesheet" type="text/css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
-
 </head>
 
 <body>
@@ -21,55 +13,7 @@
 <button id="btn001" type="button">Sign Up!</button>
 <button id="btn002" type="button" class="fas fa-shopping-cart fa-2x"></button>
 </div>
-<!-----search bar----->
 
-<form class="srcbartn" action="search.html" >
-<input type="text" id="srch001" placeholder="Product Search.." name="search" onclick="listFunction()" onkeyup="searchFunction()" autocomplete = "off">
-<button type="submit" ><i class="fa fa-search"></i></button>
-<ul id="productline"></ul>
-</form>
-<script>
-
-function listFunction(){
-    var prdlin = document.getElementById("productline");
-    var allist = "" ;
-    for (i = 0 ; i < prodb.length ; i++)
-    {
-        allist += "<li id= 'liid" + i + "'><a href='product.html'>"  + prodb[i].pname + "</a><li>" ;
-        
-        
-    }
-    prdlin.innerHTML += allist;
-    var onclikoff = document.getElementById("srch001");
-    onclikoff.removeAttribute("onclick");
-}
-
-
-function    searchFunction(){
-    
-    var input, filter, i, txtValue ;
-    input = document.getElementById("srch001");
-    filter = input.value.toUpperCase();
-    
-    
-    for (i = 0; i < prodb.length; i++) {
-        var idname = "liid" + i ;
-        var iddom = document.getElementById (idname);
-        txtValue =  prodb[i].pname;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            iddom.style.display = "";
-            } else {
-            iddom.style.display = "none";
-        }
-    }
-}
-
-</script>
-
-
-
-
-<!----- End search bar-----> 
 <div class="content">
 <h1>Welcome To Your Shop</h1><br/>
 <h2>Featured Products</h2>
