@@ -4,8 +4,12 @@
 {% include head.html %}
 
 <body id="page-top">
-  {% include nav.html %}
-  {{content}}
+  {% include nav.html %} 
+  {% include header.html %}
+  {% include call-to-action.html %}
+  {% include portfolio.html %}
+  {% include aside.html %}
+  {{ content }}
   {% include contact.html %}
   {% include scripts.html %}
 </body>
