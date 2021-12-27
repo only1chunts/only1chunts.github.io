@@ -1,16 +1,6 @@
 ---
 layout: items
 ---
-<iframe src="https://pubmed.ncbi.nlm.nih.gov/rss/search/12IsuG7_Y-aLSGk-KT7Iv2Bp4NJDWxPKcW5_r-b3jH6ZCkjE9z/?limit=15&utm_campaign=pubmed-2&fc=20210129051539" title="GSC PubMed search results"></iframe>
-
-
-<div class="container">
-<div class="header"><a href="#"><img src="./logo2.jpg" alt="not found" name="Insert_logo" width="20%" height="90" id="Insert_logo" style="background-color: #8090AB; display:block;" /></a> 
-</div>
-<div class="button">
-<button id="btn001" type="button">Sign Up!</button>
-<button id="btn002" type="button" class="fas fa-shopping-cart fa-2x"></button>
-</div>
 
 <div class="content">
 <h1>Welcome To Your Shop</h1><br/>
@@ -19,29 +9,21 @@ layout: items
 
 
 <!-------- products --------------->
-<section class="products">
 
+    {% for itemslot in furniture.itemslots %}
+	    <div class="col-lg-4 col-sm-6">
+            <a href="{{furniture.page-link}}" class="portfolio-box">
+                    <img src="{{furniture.image1}}" class="img-responsive" alt="{{furniture.description}}">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-name">
+                                {{furniture.name}}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+        </div>
+    {% endfor %}
 
-<div class="card">
-<img src="./img/toy1.jpg" class="primg0" alt="unavailable" >
-<h1>Plashy toy</h1>
-<p><button onclick="document.location='product.html'">Go to Product</button></p>
-</div>
-
-<div class="card">
-<img src="./img/toy2.jpg" class="primg0" alt="unavailable" >
-<h1>Teddy Bear</h1>
-<p><button onclick="document.location='product.html'">Go to Product</button></p>
-</div>
-
-<div class="card">
-<img src="./img/gun1.jpg" class="primg0" alt="unavailable" >
-<h1>Toy Gun</h1>
-<p><button onclick="document.location='product.html'">Go to Product</button></p>
-
-</div>
-</section>
-
-</div>
 
 

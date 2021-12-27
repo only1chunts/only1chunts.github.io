@@ -3,6 +3,10 @@
   sectiondescription: ""
   itemslots:
   - name: ""
+    image1: ""
+    image2: ""
+    image3: ""
+    page-link: ""
     description: ""
     price: ""
     barcode: ""
