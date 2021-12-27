@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: front
+---
 
 {% include head.html %}
 
 <div class="content">
-<h1>Welcome To Your Shop</h1><br/>
+<h1>Welcome To Our Shop</h1><br/>
 <h2>Featured Products</h2>
 </div>
 
