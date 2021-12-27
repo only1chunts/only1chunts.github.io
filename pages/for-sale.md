@@ -1,5 +1,5 @@
 ---
-layout: front
+layout: items
 ---
 
 {% include head.html %}
