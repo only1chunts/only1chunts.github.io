@@ -5,7 +5,21 @@
                 <h2 class="section-heading">We've got what you need!</h2>
                 <hr class="light">
                 <p class="text-faded">We always have a selection of upcyclyed and recycled furniture, and loads of crockery, mostly pyrex.</p>
-                <!-- <a href="# add a link to a page here" class="btn btn-default btn-xl">Get Started!</a> -->
+{% for itemslot in for-sale.itemslots %}
+	    <div class="col-lg-4 col-sm-6">
+            <a href="{{for-sale.page-link}}" class="portfolio-box">
+                    <img src="{{for-sale.image1}}" class="img-responsive" alt="{{for-sale.description}}">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-name">
+                                {{for-sale.name}}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+        </div>
+{% endfor %}
+
             </div>
         </div>
     </div>
