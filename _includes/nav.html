@@ -1,34 +1,109 @@
-<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Crankier Hands</a>
-        </div>
+<div class="header">
+<p><a href="https://only1chunts.github.io/"><img src="/img/header.jpg" alt="" /></a></p>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a class="page-scroll" href="#about">About</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#services">Brik-a-Brak</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#portfolio">Furniture</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#contact">Contact us</a>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
-</nav>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-64182019-3');
+</script>
+
+</div>
+<style>
+    div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  /* makes the div class sticky stick to the top of the page on scroll */
+}
+</style>
+
+<div class="sticky">
+     <style>
+        #nav {
+            list-style: none inside;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        #nav li {
+            display: block;
+            position: relative;
+            float: left;
+            background: #D3D3D3;
+            /* menu background color */
+        }
+
+        #nav li a {
+            display: block;
+            padding: 0;
+            text-decoration: none;
+            width: 92px;
+            /* this is the width of the menu items */
+            line-height: 30px;
+            /* this is the hieght of the menu items */
+            color: #DC143C;
+            /* list item font color */
+        }
+
+        #nav li li a {
+            font-size: 80%;
+        }
+
+        /* smaller font size for sub menu items */
+
+        #nav li:hover {
+            background: #FBFAF7;
+        }
+
+        /* highlights current hovered list item and the parent list items when hovering over sub menues */
+
+        #nav ul {
+            position: absolute;
+            padding: 0;
+            left: 0;
+            display: none;
+            /* hides sublists */
+        }
+
+        #nav li:hover ul ul {
+            display: none;
+        }
+
+        /* hides sub-sublists */
+
+        #nav li:hover ul {
+            display: block;
+        }
+
+        /* shows sublist on hover */
+
+        #nav li li:hover ul {
+            display: block;
+            /* shows sub-sublist on hover */
+            margin-left: 75px;
+            /* this should be the same width as the parent list item */
+            margin-top: -30px;
+            /* aligns top of sub menu with top of list item */
+        }
+    </style>
+    <ul id="nav">
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/pages/news.html">News</a></li>
+        <li><a href="/pages/services.html">Services</a></li> 
+        <li><a href="/pages/activities.html">Activities</a></li>
+<!--	<li><a href="/pages/contact.html">Contact</a>
+			<ul>
+				<li><a href="/pages/contact.html">Contact Us</a></li>
+				<li><a href="/pages/membership.html">Join Us</a></li>
+			</ul>
+		</li> 
+-->
+    </ul>
+</div>
+<br>
+<br>
+

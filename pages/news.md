@@ -1,9 +1,12 @@
 ---
-title: BANG the dirt has gone
+title: News
 catergory: news
 tag: news
-date: 2021-01-22
+date: 2025-09-01
 ---
+{% include head.html %}
+{% include nav.html %}
+
 here it is:
 <ui>
   {% for post in site.posts %}
