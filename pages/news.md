@@ -1,11 +1,5 @@
----
-title: News
-catergory: news
-tag: news
-date: 2025-09-01
----
-{% include head.html %}
 {% include nav.html %}
+{% include head.html %}
 
 here it is:
 <ui>
