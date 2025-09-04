@@ -1,4 +1,5 @@
 ---
+layout: items
 title: New board members
 category: news
 tag: news
