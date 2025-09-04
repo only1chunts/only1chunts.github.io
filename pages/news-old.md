@@ -1,3 +1,10 @@
+---
+layout: items
+title: Chris Hunter
+tags: news, blog
+date: 2025-09-04
+---
+
 {% include nav.html %}
 
 here it is:
