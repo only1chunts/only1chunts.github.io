@@ -1,5 +1,4 @@
 {% include nav.html %}
-{% include head.html %}
 
 here it is:
 <ui>
