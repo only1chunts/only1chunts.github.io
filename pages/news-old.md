@@ -5,7 +5,7 @@ tags: news, blog
 date: 2025-09-04
 ---
 
-{% include nav.html %}
+{% include head.html %}
 
 here it is:
 <ui>
