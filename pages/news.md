@@ -5,15 +5,11 @@ tags: news, blog
 date: 2025-09-04
 ---
 
-{% include head.html %} 
+{% include linked_post.html %} 
 
-here it is:
-<ui>
-  {% for post in site.posts %}
-	{{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.excerpt }} </a>
-        <br>
-  {% endfor %}
-</ui>
+
+# Here it is:
+
 
 <div id="GigaDB-metadata-guide_31085" align="center" x:publishsource="Excel">
 
