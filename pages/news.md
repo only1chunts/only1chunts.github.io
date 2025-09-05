@@ -5,13 +5,8 @@ tags: news, blog
 date: 2025-09-04
 ---
 
+{% include linked_post.html %}
 
-<ui>
-  {% for post in site.posts %}
-  * <a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
-        <br>
-  {% endfor %}
-</ui>
 
 # Here it is:
 
